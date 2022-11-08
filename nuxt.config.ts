@@ -5,5 +5,5 @@ export default defineNuxtConfig({
 	  {
 		src: 'bootstrap/dist/js/bootstrap.bundle.min.js'
 	  }
-	],
+	]
 })
